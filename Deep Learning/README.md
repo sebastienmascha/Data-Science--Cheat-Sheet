@@ -1,3 +1,3 @@
 # Deep Learning 
 ### Stanford courses 
-super-cheatsheet-deep-learning.pdf
+https://github.com/sebastienmascha/Data-Science--Cheat-Sheet/blob/master/Deep%20Learning/super-cheatsheet-deep-learning.pdf
